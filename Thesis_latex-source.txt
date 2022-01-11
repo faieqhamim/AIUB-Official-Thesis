@@ -1,0 +1,262 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{ragged2e}
+
+\graphicspath{ {images/} }
+%-------------------------------------------------------------------
+\title{Augmented Reality in action : getting high schoolers an early start with tertiary education}
+
+\author{Ibrahim K. Shovo, Faieq Hamim, Sadia J. Badhon, \\Md. E. Hossain, Akinul I. Jony, Raihan U. Ahmed }
+
+\date{January 05, 2022}
+%-------------------------------------------------------------------
+\begin{document}
+
+\Centering
+\vspace{5mm}
+\justifying
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+\maketitle
+
+\section{Abstract}
+Augmented Reality (AR) is gaining popularity in education and training. Whe- ther AR can play an important role in giving high school students an early start for university degree programs or not is a question that need to be examined thoroughly.  Many scholars have demonstrated how AR can be a viable tool for better lesson delivery or training, but no one analyzed its value in preparing high school students for tertiary education. We have used an AR based medical book on human lungs with a counterpart text book to see how students learn from each.  Two groups of students were selected with one group studying the AR based book and the other studying the text based book. Each group then took part in the same exam prepared to test their understanding of the subject matter.  Students who studied the AR based book did significantly better than the group who studied the text book.  This research has laid the foundation for further, more extensive studies to understand the benefits of AR in preparing high school students for higher studies. 
+
+\textbf{Keywords:} studies, exam, lungs, training, understanding, ar, lesson, text, benefits, degree.
+%-------------------------------------------------------------------
+\section{Introduction}
+Augmented reality (AR) is a three dimensional (3D) interactive experience that integrates real-world views with computer generated components. Augmented reality is generating a huge impact in our education system. AR can merge virtual items into users' actual world, making simulations more realistic and immersive, it has a lot of potential in education, particularly in medical education. The educational benefits of AR applications in formal education are shown, and they include attention, engagement, interest, motivation, knowledge, understanding, educational achievement, effective learning, satisfaction and autonomy.
+%-------------------------------------------------------------------
+\subsection{Background}
+The first appearance of Augmented Reality (AR) dates back to the 1950s when Morton Heilig, a cinematographer, thought of cinema is an activity that would have the ability to draw the viewer into the onscreen activity by taking in all the senses in an effective manner. In 1962, Heilig built a prototype of his vision, which he described in 1955 in “The Cinema of the Future”, named Sensorama, which predated digital computing [11]. Next, Ivan Sutherland invented the head mounted display in 1966. In 1968, Sutherland was the first one to create an augmented reality system using an optical see-through head-mounted display (Figure 2-1) [12]. In 1975, Myron Krueger creates the Videoplace, a room that allows users to interact with virtual objects for the first time. Later, Tom Caudell and David Mizell from Boeing coin the phrase Augmented Reality while helping workers assemble wires and cable for an aircraft [13]. They also started discussing the advantages of Augmented Reality versus Virtual Reality (VR), such as requiring less power since fewer pixels are needed [12].
+
+\renewcommand{\thefigure}{\arabic{section}-\arabic{figure}}
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.5]{Fig 1}
+\caption{Ivan Sutherland’s HMD [12].}
+\end{figure}
+
+In the same year, L.B Rosenberg developed one of the first functioning AR systems, called Virtual Fixtures and demonstrated its benefit on human performance while Steven Feiner, Blair MacIntyre and Doree Seligmann presented the first major paper on an AR system prototype named KARMA [13]. The reality virtuality continuum seen in (Figure 2-2 is not defined until 1994 by Paul
+
+\renewcommand{\thefigure}{\arabic{section}-\arabic{figure}}
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{Fig 2}
+\caption{Milgram’s RealityVirtuality Continuum [13].}
+\end{figure}
+
+Milgram and Fumio Kishino as a continuum that spans from the real environment to the virtual environment. AR and AV are located somewhere in between with AR being closer to the real world environment and AV being closer to the virtual environment. In 1997, Ronald Azuma writes the first survey in AR providing a widely acknowledged definition of AR by identifying it as combining real and virtual environment while being both registered in 3D and interactive in real time [12]. The first outdoor mobile AR game, ARQuake, is developed by Bruce Thomas in 2000 and demonstrated during the International Symposium on Wearable Computers. In 2005, the Horizon Report [14]. 
+Now let’s consider the present situations of Augmented Reality in education.
+
+In recent years, governments have implemented initiatives with the aim to improve the quality and effectiveness of the teaching and learning process. Besides, Malaysia is moving towards the title of a develop country and this needs a community which knowledgeable, progressive, innovative and can contributes in science and technology. These initiatives are motivated by the recognition that the traditional chalk and talk teaching method and the use of static textbooks are failing to engage students and leading to poor learning outcomes. In research conducted by Teoh and Neo (2007), for example, the respondents reported that it was boring to just hear the lecturer talking in front of them. The students believed that the integration of technologies would help them in their learning process. Therefore, educators have begun to seek technologies that have the potential to be integrated in education in order to help students learn actively and to improve their understanding especially in science subjects [15].
+%------------------------------------------------------------------
+\subsection{Reasons for undertaking the research}
+Augmented reality is a   revolutionary   window   of   opportunity to be used in education. In every field of education, Augmented Reality is considered as crucial to solving significant challenges. We proposed an AR based education system in HSC or 11th grade standard students as we observed that in future degree related studies like, for example, medical or engineering, we can implement it in our education. In many other countries (For example, Greece, Ukraine, Hong Kong, Canada, Spain and India), they have accomplished AR based education in their education system.
+
+In Greece, it is invented that the basic idea of AR is to mix reality with virtual reality namely more information data such as graphics, audio, senses, touch, smell and taste which are superimposed over a real-world environment to make the user to interact with the virtual images [16]. 
+
+In Ukraine, AR technologies become more often used in different social activity fields and especially in education [17]. 
+
+In Hong Kong, Mobile Augmented Reality (MAR) attracted interest from both industry and academia. MAR supplements the real world of a mobile user with computer generated virtual contents [18].
+
+In both Canada and Spain, Vocational Education and Training (VET) institutions, teachers face important difficulties in the teaching process due to a wide variety of student’s special educational needs as well as student’s lack of: the adequate level of basic competence, motivation, concentration, attention, confidence and background knowledge, among other aspects [19]. 
+
+In India, Augmented Reality plays a stellar role in the field of engineering education to enhance the learning of students and provide enriched experience [20]. 
+
+Finally, can we make AR an AR based app where students can learn interactively so that we can make them come on a better track. We want to see if we can make AR based applications that will be better for our students and also can we implement them in our education so that our students can be on a better track. Lastly, the validity and strength of this AR based education is beyond so far.
+%------------------------------------------------------------------
+\subsection{Literature review}
+Saleem, Kamarudin, Shoaib and Nasar [9] stated that, Augmented Reality based apps are a novel technology in e-learning that enhances students’ learning faster in virtual classrooms. Their study investigates students’ intention towards e-learning through augmented reality app during the COVID-19 pandemic. Study findings indicated that the theory of planned behavior explained students’ acceptance of e-learning through augmented reality apps, where attitude and behavioral control significantly influenced their intention to adopt augmented reality apps for e-learning; hence, subjective norm showed insignificant results.
+
+During a review of Augmented Reality in educational applications, Majeed and Ali [3] described that in education, augmented reality (AR) provides a better user experience due to its features of displaying 3D virtual information and interaction. Their paper provides an overview of AR technology in the educational environment. Also the paper is structured around three aims: first, to identify the type of AR used in each reviewed article; second, to extract the benefits of using AR technology, according to each type; and third, to specify the learning subject regarding each AR type. 
+
+Papanastasiou, Drigas, Skianis and Lytras [1] proposed that the purpose of their review article is to present state-of-the-art approaches and examples of augmented reality (AR) systems, applications and experiences which improve student learning and the generalization of skills to the real world. Thus, they provide a brief, representative and non-exhaustive review of the current research studies, in order to examine the effects, as well as the impact of AR technologies on K-12, higher and tertiary education students’ twenty-first century skills and their overall learning. 
+
+Faith Marcel [10] said that, learners in all sectors of education continue to have access to a growing number of mobile augmented reality (AR) applications for the creation and implementation of mobile AR experiences and learning objects (LOs). In the study, affordances of mobile AR and LOs for higher education are investigated through the mobile AR platform HP Reveal.
+
+Kerr and Lawson [8] entitled in their paper about the rapid and ongoing development of digital technologies continues to create new opportunities for education. Their study examines the learning potential and benefits of AR technology with a focus on creating new practices in digital storytelling across situated experiences.
+
+Rabia M. Yilmaz [4] narrated in her article that the paper describes review literature regarding usage of augmented reality (AR) in higher school education. In her paper, all studies are categorized according to target groups, which are early childhood education, primary education, secondary education, high school education, graduate education, and others. 
+
+Murat Akçayır and Gökçe Akçayır [2] presented in their paper that their study presents a systematic review of the literature on augmented reality (AR) used in educational settings. They considered factors such as publication year, learner type (e.g., K-12, higher education, and adult), technologies in AR, and the advantages and challenges of using AR in educational settings. 
+
+Saidin, Halim and Yahaya of Malaysia University [6] reviewed in their study that, technology in education can influence students to learn actively and can motivate them, leading to an effective process of learning. Their previous research has identified the problem that technology will create a passive learning process if the technology used does not promote critical thinking, meaning-making or metacognition. 
+
+Kesim and Ozarslan [5] reviewed that in higher education system, the physical world is three-dimensional, mostly preferred to use two - dimensional media. 
+
+Kesim and Ozarslan [7] again reviewed their study that the physical world is three-dimensional, mostly preferred to use two-dimensional media in education where the combination of AR technology with the educational content creates new type of automated applications and acts to enhance the effectiveness and attractiveness of teaching and learning for students in real life scenarios. 
+
+All these review papers discussed above are related to our thesis work and other related activities. We have seen and reviewed that they have done tremendous work in AR based education. We are inspired by their ideas and we have come up with new different ideas that are related to our thesis work. We used an AR based application named “Insight Lung” for higher school or 11th grade students in tertiary education of our country for a better future in field work which is completely a new approach. We used the app to test among two groups of students to determine whether AR based education is better or NON-AR based education is better. We analyzed the results and came up with the outcome of our research work which is definitely new than other related research works. Thus our research work varies from other related research works.    
+%-----------------------------------------------------------------
+\section{Methods and experiments}
+\subsection{Domain selection}
+For our thesis work we reviewed many Computers Science (CS) background domains considering the ones which are on high demand. We selected 3 domains in initial and after discussion and review, we came up with the decision of selecting Augmented Reality as our thesis domain. Augmented Reality (AR) is known as the overlay of computer visuals over the real world. AR is used to provide a more engaging and dynamic consumer experience by combining input from various gear such as smart glasses, smart lenses, and smartphones. After selecting the domain, we discussed among our group members and then selected tertiary education sector to implement the AR. We selected high school students and we proposed better education facility in tertiary education by using the AR.
+%-------------------------------------------------------------------
+\subsection{Review of paper}
+We searched for a large number of articles that were relevant to our study and read literature reviews. We considered keywords like AR in education in 2021 and AR in education for Finland in our search. Then, for paper evaluation, we chose several papers that were relevant to our study. We studied papers that were relevant to our thesis work and acquired information about augmented reality and its applications in education.
+%--------------------------------------------------------------------
+\subsection{Analysis of paper}
+For analyzing the papers, initially we identified logical reasons for conducting our work, reviewed the description of the methodology applied for the research, a concise report of the findings and a logical conclusion based on the result. Then we reviewed the papers. For reviewing the papers, first we got ourselves familiar with the title, abstract and introduction. Then we read the headings of each sections, looked through the conclusions and scanned the references. We also did critical analysis by retrieving answers of questions like what type of paper, what is the research topic of the paper, information’s provided in the paper are valid or not etc. Then we examined the contents. We reviewed thesis statement, author’s arguments, checked the evidences and limits of the study, and tried to establish the author’s perspective. We also checked the format and presentation of papers by checking first-level, mid-level and deep-level sentences. In last we did critique and evaluation of the papers. For this purpose we assessed crucial aspects like reviewing author’s objective and its engagement, in broader context what role it plays. We checked grammar and organization of the papers. We also identified what the readers will learn from those papers.
+%-------------------------------------------------------------------
+\subsection{Selection of an AR-based app}
+After doing the analysis, we selected an AR-based app to test whether learning from an AR-Based educational material is better rather than learning from a NON-AR based educational material like books. We selected “Insight Lungs” app for our research work. Inside the app, we found two mode for learning about lungs, one is AR mode and another is NON-AR mode. For our research purpose we used only AR mode. 
+%------------------------------------------------------------------
+\subsection{App analysis}
+After selecting the “Insight Lung” app, we reviewed the whole app and identified the key findings for our research work. We inspected AR mode of the app and reviewed it’s properties. Special algorithms and sensors are used to detect the position and orientation of the AR model in augmented reality. In AR mode, an anatomical view of human body is found where by clicking the anatomical view, a human lungs can be viewed showing basic information’s. In the app we found options for “Asthma” and “COPD” where we can know about various diseases and visual affects related to the mentioned two terms. For Asthma, we can know about mild, severe, moderated and Asthma Exacerbation. For COPD, we can know about mild, moderate, severe and very severe. Also we can know about the FEV1 regarding Asthma and COPD of our own lungs. After doing the analysis we introduced the app to the students for the test so that we can determine which medium of learning is better, medium of AR or medium of NON-AR.
+%------------------------------------------------------------------
+\subsection{Introducing the app}
+We reviewed various aspects of the “Insight Lung” app and tried to identify details about Asthma, COPD, FEV1 measurement thru the app. The app can explore the human lungs in augmented reality and learn more about asthma and COPD. This app is built and designed for the aim of medical education. The purpose is to make medical education interesting, explorable, and enjoyable for students and professionals, as well as accessible to patients, in and out of the classroom, lecture hall, or living room. The app is dedicated to taking medical education to the next level by creating aesthetically appealing and highly interactive information based on real-world medical and scientific knowledge based requirements.
+
+\setcounter{figure}{0} % reset figure counter to 0.
+\renewcommand{\thefigure}{\arabic{section}-\arabic{figure}}
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.5]{Fig 3}
+\caption{Insight Lung app.}
+\end{figure}
+
+\renewcommand{\thefigure}{\arabic{section}-\arabic{figure}}
+\begin{figure}[h]
+\centering
+\includegraphics[scale=0.5]{Fig 4}
+\caption{Healthy lung view.}
+\end{figure}
+%--------------------------------------------------------------------
+\subsection{Book creation through the app}
+We created a physical book and taught the students from the book. In the book, we inserted narrated details from the app and inserted images as necessary. We created the book as much as like the book of 1st year medical students for high school or 11th grade students so that they can get a head start for their upcoming career. We also reviewed the book from a medical student to check whether all information’s put in the book are valid or not. We also reviewed and compared the main app with the book and tried to put the details in the book as much as stated in the app.  
+%-------------------------------------------------------------------
+\subsection{Starting the evaluation}
+For the evaluation, we have used 2(two) Google forms, one for AR app based learners and another for AR book based learners. We selected two forms so that from the histogram we can easily differentiate the difference of AR app based and AR book based methods.   
+%--------------------------------------------------------------------
+\subsection{Conducting evaluation}
+In order to test which learning medium is better, we decided to evaluate the students of both groups by taking a multiple-choice questions (MCQ) exam in Google forms. To take the MCQ exam, we have generated two set of questions from the book. Then we arranged some students from HSC or 11th grade and conducted MCQ exam among them. We have taken an exam of one group containing 25 boys and 25 girls regarding AR based application and simultaneously we have taken other 25 boys and 25 girls regarding book made by the information of that AR application. The exam continued for 35 minutes and of 30 marks. 
+%-------------------------------------------------------------------
+\subsection{Result accumulation}
+There were two parts in form, one part is for non-image based aka non-analytical part based test and another part is for image based aka analytical part based test. These two parts were created so that we can get nearly accurate assumption about our findings. We took one day for testing and after test, we collected the results from google forms. From google forms, we collected various data, bar charts and histograms regarding our research. We collected average of all respondents so that we can get a better view of the perspective. We also collected median and range from the forms. We collected total points distribution in graphical view from forms. We reviewed frequently missed questions from respondents with marking of correct responses. In scores section of form, we reviewed graphs aka histograms which were generated from responds of individual options of questions. Graphs are created so that we can know the frequency that how much percentage of respondents answered which option. The options in questions were shuffled to ensure better exam environment. Two google sheets are also auto-generated from forms where we can track of time, email address, score, personal details, and selected options, which makes our data collection much easier.  
+%-------------------------------------------------------------------
+\subsection{Outcome analysis}
+We took many types of data, graphical charts, and histograms and reviewed them. For a better outcome, we divided the data into ourselves and reviewed them accordingly. From AR and NON-AR lungs exam, we gathered 100 responses (50 male and 50 female) from the same institution. From NON-AR lungs exam, we noted average of 24.02 out of 30, median of 24 out of 30 and range between 19-29 points. From AR lungs exam, we noted average of 26.86 out of 30, median of 27 out of 30 and range between 22-30 points, which shows great progress than NON-AR lungs exam. We also consulted with our honorable supervisor about our future leads. Then we merged all reviews and finally draw our outcome. 
+%-------------------------------------------------------------------
+\subsection{Declaration}
+Analyzing the data from the google form we came to a solution that, learning with Augmented Reality (AR) is better than learning with random/ text books. AR represents a graphical overview in front of the user or students so that they can learn the things into real time environment. Already in many developed countries AR is used for sophisticated learning and training. But AR has also some disadvantages too. Devices requires high processing and battery power to perform the apps smoothly. Even if the battery optimizer is on, some apps will shut down automatically or crash down. To buy such devices, extra amount of money is required which not every student can barely even manage. Also some of the apps injects spyware into devices that steals the data of the device user anonymously. Which creates big safety risk too. 
+%-------------------------------------------------------------------
+\section{Result and discussions}
+\subsection{Result}
+Augmented Reality creates a virtual platform where we can roam and emerge freely using specified handheld devices. In many nations it is used widely. To test whether AR can be beneficial for 11th grade or high school students, a test is been conducted among 100 boys and girls. They were taught in two separate groups where for one group AR based “Insight Lung” app is used directly and on the other hand, book made of same extracted data from the app which is used to taught. A google form containing questions of 30 marks is delivered to the students and data were collected and distributed among research group members for better evaluation of the research work. 
+
+\setcounter{figure}{0} % reset figure counter to 0.
+\renewcommand{\thefigure}{\arabic{section}-\arabic{figure}}
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\textwidth]{AR-lungs_meta-chart}
+\caption{Total points distribution for AR Lungs Exam.}
+\end{figure}
+
+\renewcommand{\thefigure}{\arabic{section}-\arabic{figure}}
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\textwidth]{NON-AR-lungs_meta-chart}
+\caption{Total points distribution for Non-AR Lungs Exam.}
+\end{figure}
+
+\renewcommand{\thefigure}{\arabic{section}-\arabic{figure}}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.5\textwidth]{Avg-variation_pie-chart}
+\caption{Average variance.}
+\end{figure}
+
+\renewcommand{\thefigure}{\arabic{section}-\arabic{figure}}
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\textwidth]{Mdn-variation_pie-chart}
+\caption{Median variance.}
+\end{figure}
+
+After doing the review and analysis of the collected data, it is seen that students taught using book gained less marks than students taught using AR based app. Also the percentage of correct answers for individual response of the questions are also at peak for the AR based learners. After evaluation a feedback was collected from the participants. The feedback also seems quite well for the AR-based learners. Despite of having some issues like high-end device, big display device, the overall success of AR-based learning is far better than NON-AR based learning. 
+%--------------------------------------------------------------------
+\subsection{Discussions}
+Augmented Reality can definitely add a new dimension for tertiary education. Students can learn more complex stuffs very easily like never before. Due to COVID situation, considering the typical health issues of students, we weren’t able to test among many students. But we ensured proper test environment among the selected number of students. Also the test result derived from the test not affects the number of participation in any ways. Overall test conducted from the students is fruitful for our research work and derives that AR based learning is much advanced, much secure and much study-friendly than NON-AR based learning.  
+%---------------------------------------------------------------------
+\section{Conclusion and future works}
+\subsection{Conclusion}
+We set out to understand the practicality of AR in preparing high school students for undergraduate studies.  We conducted experiments on students with an AR based book and a text-based book on human lungs.  An exam was conducted to investigate the differences in comprehension among students of both groups.  The results of the exams clearly demonstrated the power of the AR based book over the non-AR book.  Though the group size was small, it has strongly established the base for further research on usage of AR for high school students to prepare them for higher studies.   
+%---------------------------------------------------------------------
+\subsection{Future works}
+Due to pandemic situation, the sample size that could be gathered was substantially small.  In the future, the same experiment needs to be conducted on a larger student population.  
+No Memory Retention Test (MRT) could have been performed due to pandemic and the time constraints.  Studies need to be carried out to check how much knowledge students can retain for after studying both AR based and non-AR book.        
+%-------------------------------------------------------------------
+\begin{thebibliography}{00}
+\bibitem{b1} Virtual and augmented reality effects on K-12, higher and tertiary education students’ twenty-first century skills. (2019). Researchgate. 
+%https://www.researchgate.net/publication/327167922_Virtual_and_augmented_reality_effects_on_K-12_higher_and_tertiary_education_students%27_twenty-first_century_skills
+
+\bibitem{b2} Advantages and challenges associated with augmented reality for education: A systematic review of the literature. (2017, February 1). ScienceDirect. 
+%https://www.sciencedirect.com/science/article/abs/pii/S1747938X16300616
+
+\bibitem{b3} A review of augmented reality in educational applications. (2020). Researchgate. %https://www.researchgate.net/publication/338931253_A_review_of_augmented_reality_in_educational_applications
+
+\bibitem{b4} Yilmaz, R. M. (2018, May 23). Augmented Reality Trends in Education between 2016 and 2017 Years. IntechOpen. %https://www.intechopen.com/books/state-of-the-art-virtual-reality-and-augmented-reality-knowhow/augmented-reality-trends-in-education-between-2016-and-2017-years
+
+\bibitem{b5} Augmented Reality in Education: Current Technologies and the Potential for Education. (2012, January 1). ScienceDirect. %https://www.sciencedirect.com/science/article/pii/S1877042812023907
+
+\bibitem{b6} A Review of Research on Augmented Reality in Education: Advantages and Applications. (2015). Researchgate. %https://www.researchgate.net/publication/281336331_A_Review_of_Research_on_Augmented_Reality_in_Education_Advantages_and_Applications
+
+\bibitem{b7} Augmented Reality in Education: Current Technologies and the Potential for Education. (2012a). Researchgate. %https://www.researchgate.net/publication/257716287_Augmented_Reality_in_Education_Current_Technologies_and_the_Potential_for_Education
+
+\bibitem{b8} Kerr, J. (2020, February 1). Augmented Reality in Design Education: Landscape Architecture Studies as AR Experience. Wiley Online Library. 
+%https://onlinelibrary.wiley.com/doi/full/10.1111/jade.12227
+
+\bibitem{b9} Influence of augmented reality app on intention towards e-learning amidst COVID-19 pandemic. (2021). Taylor and Francis. %https://www.tandfonline.com/doi/abs/10.1080/10494820.2021.1919147
+
+\bibitem{b10} Marcel, F. (2019, January 24). Mobile augmented reality learning objects in higher education. Research in Learning Technology. Association for Learning Technology. %https://journal.alt.ac.uk/index.php/rlt/article/view/2133
+
+\bibitem{b11} Wikipedia, the free encyclopedia. (2009). Sensorama. %http://en.wikipedia.org/wiki/Sensorama
+
+\bibitem{b12} History of mobile augmented reality. (2009). Institute of Computer Graphics and Vision.
+%https://www.icg.tugraz.at/~daniel/HistoryOfMobileAR/ 
+
+\bibitem{b13} Wikipedia, the free encyclopedia (2010). Augmented Reality. 
+%http://en.wikipedia.org/wiki/Augmented_reality  
+
+\bibitem{b14} Horizon Report Johnson LF, Smith, RS (2005) Horizon Report. Austin, TX: The New Media Consortium, 2005.
+%No url
+
+\bibitem{b15} A Review of Research on Augmented Reality in Education: Advantages and Applications. (2015b). Researchgate. %https://www.researchgate.net/publication/281336331_A_Review_of_Research_on_Augmented_Reality_in_Education_Advantages_and_Applications
+
+\bibitem{b16} Virtual and augmented reality effects on K-12, higher and tertiary education students’ twenty-first century skills. (2019). Researchgate. 
+%https://www.researchgate.net/publication/327167922_Virtual_and_augmented_reality_effects_on_K-12_higher_and_tertiary_education_students%27_twenty-first_century_skills
+
+\bibitem{b17} The usage of augmented reality technologies in professional training of future teachers of Ukrainian language and literature. (2021). CEUR-WS. 
+%http://ceur-ws.org/Vol-2898/paper17.pdf 
+
+\bibitem{b18} Mobile Augmented Reality Survey: From Where We Are to Where We Go. (2017). IEEE Journals and Magazine. IEEE Xplore. %https://ieeexplore.ieee.org/document/7912316
+
+\bibitem{b19} Mobile Augmented Reality in Vocational Education and Training. (2015). Sciencedirect. %https://cyberleninka.org/article/n/1334433/viewer 
+
+\bibitem{b20} Enriched Learning Experience using Augmented Reality Framework in Engineering Education. (2020, January 1). ScienceDirect. %https://www.sciencedirect.com/science/article/pii/S1877050920314642 
+
+\bibitem{b21} INSIGHT LUNG - Apps on Google Play. (2020). INSIGHT LUNG. %https://play.google.com/store/apps/details?id=com.animares.insightlung&hl=en_US&gl=US
+
+\bibitem{b22} INSIGHT LUNG for Android - APK Download. (2020). APKPure.Com . 
+%https://apkpure.com/insight-lung/com.animares.insightlung  
+
+\bibitem{b23} Non-AR Lungs Exam. (2021). Google Docs. %https://docs.google.com/forms/d/e/1FAIpQLSfegyi8x0MGwsH1Zc17P0aYJM892PuHSmgkYuur8JKP3spbpw/closedform
+
+\bibitem{b24} AR Lungs Exam. (2021). Google Docs. %https://docs.google.com/forms/d/e/1FAIpQLSfiIHIswv0FkvWJr44b_SLYWeaMJJySzPOYSV3u3PI-QFYx7Q/closedform 
+
+\bibitem{b25} Gantt Chart Maker. (2021). Lucidchart. %https://www.lucidchart.com/pages/examples/gantt-chart-maker
+
+\bibitem{b26} Research Paper Analysis: Quick How-to Guide and Example [2021]. (2021, January 12). Knowledge Base. %https://custom-writing.org/blog/research-papers-analysis 
+%--------------------------------------------------------------------
+\begin{center}The End\end{center}
+    
+\end{thebibliography}
+
+\end{document}
